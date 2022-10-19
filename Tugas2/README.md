@@ -12,8 +12,8 @@
 
 ### Intent Implisit
 
-> > ![Intent Implisit](/Screenshot/implicit-intent.png)
+> > ![Intent Implisit](https://github.com/MattRiel/MPR2_201401038/blob/master/Tugas2/Screenshot/implicit-intent.png)
 
 ### Pengiriman Object
 
-> > ![Object](/Screenshot/object.png)
+> > ![Object](https://github.com/MattRiel/MPR2_201401038/blob/master/Tugas2/Screenshot/object.png)
