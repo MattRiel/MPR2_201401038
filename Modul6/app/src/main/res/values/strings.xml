@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Modul 6</string>
+    <string name="nama">Nama</string>
+
+    <string-array name="anime1">
+        <item>anime 1</item>
+        <item>anime 2</item>
+        <item>anime 3</item>
+        <item>anime 4</item>
+        <item>anime 5</item>
+        <item>anime 6</item>
+        <item>anime 7</item>
+    </string-array>
+
+    <string-array name="anime2">
+        <item>deskripsi 1</item>
+        <item>deskripsi 2</item>
+        <item>deskripsi 3</item>
+        <item>deskripsi 4</item>
+        <item>deskripsi 5</item>
+        <item>deskripsi 6</item>
+        <item>deskripsi 7</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/paimon</item>
+        <item>@drawable/paimon</item>
+        <item>@drawable/paimon</item>
+        <item>@drawable/paimon</item>
+        <item>@drawable/paimon</item>
+        <item>@drawable/paimon</item>
+        <item>@drawable/paimon</item>
+    </integer-array>
+</resources>
